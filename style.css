@@ -1,0 +1,81 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.osnova {
+    background-color: #151515;
+}
+
+.osnovaq {
+    color: #FF8C42;
+}
+
+.img-n {
+    display: flex;
+}
+
+.img1 {
+    width: 46px;
+    height: 45.45px;
+    left: 141px;
+    top: 52px;
+    margin-top: 52px;
+    margin-left: 95px;
+}
+
+.h2-m {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    margin-top: 43px;
+    margin-left: 6px;
+}
+
+.description1 {
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 120px;
+    margin-top: 227px;
+    margin-left: 84px;
+    margin-bottom: 72px;
+}
+
+.description2 {
+    font-size: 36px;
+    line-height: 45px;
+    margin-left: 84px;
+    margin-top: 72px;
+    margin-bottom: 39px;
+}

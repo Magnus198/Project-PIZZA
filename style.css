@@ -65,7 +65,7 @@ img {
 
 .description1 {
     font-weight: 600;
-    font-size: 96px;
+    font-size: 75px;
     line-height: 120px;
     margin-top: 227px;
     margin-left: 84px;
@@ -78,4 +78,54 @@ img {
     margin-left: 84px;
     margin-top: 72px;
     margin-bottom: 39px;
+}
+
+.w {
+    color: #FF8C42;
+    display: flex;
+    margin-right: 91px;
+}
+
+.home {
+    margin-top: 52px;
+    margin-left: 290px;
+    margin-right: 35px;
+    font-weight: 700;
+    width: 139px;
+    height: 41px;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.menu {
+    margin-top: 52px;
+    width: 138px;
+    font-weight: 700;
+    height: 41px;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.sc {
+    margin-top: 52px;
+    width: 347px;
+    font-weight: 700;
+    height: 41px;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    margin-left: 35px;
+}
+
+.cu {
+    width: 194px;
+    height: 41px;
+    margin-right: 91px;
+    margin-left: 35px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    margin-top: 52px;
 }

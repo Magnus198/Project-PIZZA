@@ -129,3 +129,61 @@ img {
     line-height: 40px;
     margin-top: 52px;
 }
+
+.vector {
+    margin-left: 84px;
+    margin-top: 72px;
+    width: 283.5px;
+    height: 48px;
+}
+
+.class {
+    display: flex;
+}
+
+.button {
+    width: 218px;
+    height: 48px;
+    background-color: #FF8C42;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 72px;
+}
+
+.search {
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.try {
+    background-color: #FF8C42;
+    color: white;
+    margin-left: 84px;
+    margin-top: 72px;
+    margin-bottom: 134px;
+    width: 191px;
+    height: 68px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.cloud {
+    margin-left: 1400px;
+    margin-top: -485px;
+    margin-bottom: 63px;
+    margin-right: 125px;
+}
+
+.burger {
+    width: 700px;
+    height: 697.16px;
+    margin-top: -450px;
+    margin-left: 197px;
+    margin-right: 90px;
+}

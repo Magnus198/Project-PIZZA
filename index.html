@@ -7,6 +7,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PIZZA MANIA</title>
+    <style>
+        a {
+            text-decoration: none;
+        }
+        a {
+            background: linear-gradient(to right,transparent,transparent),
+            linear-gradient(to right,#ff8c42,orange,orange);
+            background-size: 100% 3px, 0 3px;
+            background-position: 100% 100%, 0 100%;
+            background-repeat: no-repeat;
+            transition: background-size 400ms;
+        }
+
+        a:hover {
+            background-size: 0 3px,100% 3px ;
+        }
+    </style>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,7 +37,7 @@
             <div class="w">
                 <img class="img1" src="img/Vector.png" alt="pizza">
                 <h2 class="h2-m">mania</h2>
-                <h3 class="home">Home</h3>
+                <a href="#" class="home">Home</a>
                 <h3 class="menu">Menu</h3>
                 <h3 class="sc">Specials & Coupons</h3>
                 <h3 class="cu">Contact Us</h3>
@@ -38,6 +55,7 @@
         <button class="try">Try now</button>
     </div>
     <img class="cloud" src="img/Cloud.png" alt="cloud">
+
 </body>
 
 </html>
